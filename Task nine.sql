@@ -1,0 +1,3 @@
+USE cape_codd;
+SELECT *
+FROM ORDER_ITEM
