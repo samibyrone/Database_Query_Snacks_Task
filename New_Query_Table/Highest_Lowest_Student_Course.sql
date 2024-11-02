@@ -1,0 +1,8 @@
+USE hadobo;
+
+
+SELECT * 
+FROM COURSE ORDER BY CourseNoOfStudent ASC;
+
+SELECT *
+FROM COURSE ORDER BY CourseNoOfStudent DESC;

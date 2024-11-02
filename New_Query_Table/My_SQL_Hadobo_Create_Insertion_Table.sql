@@ -1,0 +1,31 @@
+
+USE hadobo;
+
+-- Student Data
+
+INSERT INTO STUDENT VALUES ( 1, 'Samson', 22, 'Male');
+INSERT INTO STUDENT VALUES (2, 'Adunni', 62, 'Female');
+INSERT INTO STUDENT VALUES (3, 'Peter', 49, 'Male');
+INSERT INTO STUDENT VALUES (4, 'Abimbola', 34, 'Female');
+INSERT INTO STUDENT VALUES (5, 'Bolaji', 44, 'Male');
+INSERT INTO STUDENT VALUES (6, 'Adenike', 39, 'Female');
+
+
+-- Course Data
+
+INSERT INTO COURSE VALUES (1, 'Python', 'Sir_Sikiru', 10);
+INSERT INTO COURSE VALUES(2, 'Physics', 'Mr_adewale', 8);
+INSERT INTO COURSE VALUES(3, 'Java', 'Mr_Chibuzor', 25);
+INSERT INTO COURSE VALUES(4, 'Data_Science', 'Mr_Evans', 15);
+INSERT INTO COURSE VALUES(5, 'Javascript', 'Mr_Chinedu', 21);
+INSERT INTO COURSE VALUES(6, 'Chemistry', 'Mr_Idowu', 19);
+
+
+-- Grade Data
+
+INSERT INTO GRADE VALUES (1, 8, 62);
+INSERT INTO GRADE VALUES (2, 3, 49);
+INSERT INTO GRADE VALUES (3, 1, 82);
+INSERT INTO GRADE VALUES (4, 5, 58);
+INSERT INTO GRADE VALUES (5, 2, 84);
+INSERT INTO GRADE VALUES (6, 4, 71);
